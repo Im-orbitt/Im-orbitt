@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Im-orbitt/Im-orbitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✦ Orbitt
 
-Here are some ideas to get you started:
+Orbiting between games, projects, and 2am thoughts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student developer, occasional game dev, professional "I'll fix it later" enthusiast.
+
+</div>
+
+<br>
+
+## 🌱 Currently Exploring
+
+* Web development (HTML, CSS & JavaScript)
+* Python
+* Git & GitHub
+* Open source
+* Linux
+* Turning random ideas into projects
+
+## 🎹 Away From The Keyboard
+
+* Playing piano
+* Solving Rubik's Cubes
+* Customizing my setup far more than necessary
+* Going down random internet rabbit holes
+
+## 📡 Random Facts
+
+* Most of my projects begin as "just a small idea."
+* If there's a button, I'll eventually click it.
+* If something broke, I was probably experimenting.
+* If it somehow works, I'm not touching it again.
+
+---
+
+<div align="center">
+
+Currently somewhere between
+
+ "this should work"
+
+and
+
+ "why is it doing that?"
+
+</div>
