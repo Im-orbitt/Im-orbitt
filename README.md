@@ -19,13 +19,13 @@ Student developer • occasional game dev • professional "I'll fix it later" e
 
 ---
 
-###      About
+### About
 
 Most of my projects begin as random ideas.
 
 Currently exploring web development, Python, Linux, open source, and whatever catches my attention next.
 
-###      Interests
+### Interests
 
 - Web Development
 - Game Development
@@ -33,7 +33,7 @@ Currently exploring web development, Python, Linux, open source, and whatever ca
 - Science & Technology
 - Building things just to see if they work
 
-###      Away From The Keyboard
+### Away From The Keyboard
 
 - Piano
 - Rubik's Cubes
@@ -43,7 +43,7 @@ Currently exploring web development, Python, Linux, open source, and whatever ca
 
 ---
 
-###     status
+### status
 
 ```txt
 user     : orbitt
